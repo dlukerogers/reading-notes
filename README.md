@@ -13,3 +13,18 @@ Growth Mindset is an optimistic state of mind that is used when struggling with 
 - Keep trying different things! Don't give up!
 
 [My GitHub portfolio/profile](https://github.com/dlukerogers)
+
+This website is my reading journal. It is for graders from Code Fellows to see the reading assignments that I complete after each class. It contains answers to reading assignment questions.
+
+## Table of Contents
+
+### Code 102 Reading Notes
+
+1. [Read: 01](class1-notes.md)
+2. [Read: 02](class2-notes.md)
+3. [Read: 03](class3-notes.md)
+4. [Read: 04](class4-notes.md)
+5. [Read: 05](class5-notes.md)
+6. [Read: 06](class6-notes.md)
+7. [Read: 07](class7-notes.md)
+8. [Read: 08](class8-notes.md)
