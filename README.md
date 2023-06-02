@@ -1,4 +1,4 @@
-# My Reading Journal
+# Reading Notes
 
 I'm **Luke Rogers**. I live in Wheaton IL. I graduated from Wheaton College in 2020 with a business degree. For two years I was a project manager at a small digital marketing company where I came across coding as I worked with many developers. I am really interested in coding and would love to make this my career. I love sports and dogs as well!
 
@@ -6,9 +6,7 @@ I'm **Luke Rogers**. I live in Wheaton IL. I graduated from Wheaton College in 2
 
 This website is my reading journal. It is for graders from Code Fellows to see the reading assignments that I complete after each class. It contains answers to reading assignment questions.
 
-## Table of Contents
-
-### Code 102 Reading Notes
+## Code 102 Reading Notes
 
 1. [Read: 01](Reading-notes-102/class1-notes.md)
 2. [Read: 02](Reading-notes-102/class2-notes.md)
@@ -19,7 +17,7 @@ This website is my reading journal. It is for graders from Code Fellows to see t
 7. [Read: 07](Reading-notes-102/class7-notes.md)
 8. [Read: 08](Reading-notes-102/class8-notes.md)
 
-### Code 201 Reading Notes
+## Code 201 Reading Notes
 
 1. [Read: 01](Reading-notes-201/reading-notes1-201.md)
 2. [Read: 02](Reading-notes-201/reading-notes2-201.md)
@@ -36,3 +34,7 @@ This website is my reading journal. It is for graders from Code Fellows to see t
 13. [Read: 13](Reading-notes-201/reading-notes13-201.md)
 14. [Read: 14](Reading-notes-201/reading-notes14-201.md)
 15. [Read: 15](Reading-notes-201/reading-notes15-201.md)
+
+## Code 301 Reading Notes
+
+## Code 401 Reading Notes
