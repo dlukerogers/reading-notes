@@ -19,21 +19,21 @@ This website is my reading journal. It is for graders from Code Fellows to see t
 
 ## Code 201 Reading Notes
 
-1. [Read: 01](Reading-notes-201/reading-notes1-201.md)
-2. [Read: 02](Reading-notes-201/reading-notes2-201.md)
-3. [Read: 03](Reading-notes-201/reading-notes3-201.md)
-4. [Read: 04](Reading-notes-201/reading-notes4-201.md)
-5. [Read: 05](Reading-notes-201/reading-notes5-201.md)
-6. [Read: 06](Reading-notes-201/reading-notes6-201.md)
-7. [Read: 07](Reading-notes-201/reading-notes7-201.md)
-8. [Read: 08](Reading-notes-201/reading-notes8-201.md)
-9. [Read: 09](Reading-notes-201/reading-notes9-201.md)
-10. [Read: 10](Reading-notes-201/reading-notes10-201.md)
-11. [Read: 11](Reading-notes-201/reading-notes11-201.md)
-12. [Read: 12](Reading-notes-201/reading-notes12-201.md)
-13. [Read: 13](Reading-notes-201/reading-notes13-201.md)
-14. [Read: 14](Reading-notes-201/reading-notes14-201.md)
-15. [Read: 15](Reading-notes-201/reading-notes15-201.md)
+1. [Read: 01](Reading-notes-201/class-01.md)
+2. [Read: 02](Reading-notes-201/class-02.md)
+3. [Read: 03](Reading-notes-201/class-03.md)
+4. [Read: 04](Reading-notes-201/class-04.md)
+5. [Read: 05](Reading-notes-201/class-05.md)
+6. [Read: 06](Reading-notes-201/class-06.md)
+7. [Read: 07](Reading-notes-201/class-07.md)
+8. [Read: 08](Reading-notes-201/class-08.md)
+9. [Read: 09](Reading-notes-201/class-09.md)
+10. [Read: 10](Reading-notes-201/class-10.md)
+11. [Read: 11](Reading-notes-201/class-11.md)
+12. [Read: 12](Reading-notes-201/class-12.md)
+13. [Read: 13](Reading-notes-201/class-13.md)
+14. [Read: 14](Reading-notes-201/class-14.md)
+15. [Read: 15](Reading-notes-201/class-15.md)
 
 ## Code 301 Reading Notes
 
