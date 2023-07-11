@@ -37,4 +37,20 @@ This website is my reading journal. It is for graders from Code Fellows to see t
 
 ## Code 301 Reading Notes
 
+1. [Read: 01](Reading-notes-301/class-01.md)
+2. [Read: 02](Reading-notes-301/class-02.md)
+3. [Read: 03](Reading-notes-301/class-03.md)
+4. [Read: 04](Reading-notes-301/class-04.md)
+5. [Read: 05](Reading-notes-301/class-05.md)
+6. [Read: 06](Reading-notes-301/class-06.md)
+7. [Read: 07](Reading-notes-301/class-07.md)
+8. [Read: 08](Reading-notes-301/class-08.md)
+9. [Read: 09](Reading-notes-301/class-09.md)
+10. [Read: 10](Reading-notes-301/class-10.md)
+11. [Read: 11](Reading-notes-301/class-11.md)
+12. [Read: 12](Reading-notes-301/class-12.md)
+13. [Read: 13](Reading-notes-301/class-13.md)
+14. [Read: 14](Reading-notes-301/class-14.md)
+15. [Read: 15](Reading-notes-301/class-15.md)
+
 ## Code 401 Reading Notes
