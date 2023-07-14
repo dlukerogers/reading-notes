@@ -33,3 +33,17 @@
 
 5. Give an example of using the spread operator to combine two objects into one.  
   *An example of using the spread operator to combine two objects into one is if you have a student's information broken out into two objects, for example, their name and their grade, you can combine their name and grade into one object using the spread operator.*  
+
+## How to Pass Functions Between Components  
+
+1. In the video, what is the first step that the developer does to pass functions between components?  
+  *The first step that the developer does to pass functions between components is he creates the function wherever the state is that he wants to change.*  
+
+2. In your own words, what does the `increment` function do?  
+  *The increment function goes through the people array and if the name in the people array matches the name passed in, the count of the people array will increment by one.*
+
+3. How can you pass a method from a parent component into a child component?  
+  *You can pass a method from a parent component into a child component by declaring a variable name, equaling that to `this.methodName`, and placing that under the component element you're grabbing underneath the render function.*  
+
+4. How does the child component invoke a method that was passed to it from a parent component?  
+  *The child component invokes a method that was passed to it from a parent component by adding `this.props.methodName` to the child component.*  
